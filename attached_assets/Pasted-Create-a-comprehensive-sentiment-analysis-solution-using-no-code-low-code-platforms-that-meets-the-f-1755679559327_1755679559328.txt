@@ -1,0 +1,53 @@
+Create a comprehensive sentiment analysis solution using no-code/low-code platforms that meets the following requirements:
+
+CORE FUNCTIONALITY:
+- Build a sentiment analysis system that can process text through multiple input methods (direct entry, file upload)
+- Implement multi-class sentiment classification (positive/negative/neutral) with confidence scoring
+- Create batch processing capabilities for analyzing multiple texts simultaneously
+- Design an interactive dashboard showing sentiment distribution and trends
+
+PLATFORM REQUIREMENTS:
+Choose ONE primary no-code platform from:
+- Google Cloud AutoML + Data Studio
+- Microsoft Power Platform (AI Builder + Power Apps + Power BI)
+- AWS SageMaker Canvas + QuickSight
+- Bubble.io with API integrations
+
+SPECIFIC DELIVERABLES:
+1. **Data Pipeline**: Set up automated data ingestion and preprocessing workflows
+2. **ML Model**: Train/configure sentiment analysis model using platform tools
+3. **Interactive Dashboard**: Create visualizations showing:
+   - Real-time sentiment analysis results
+   - Historical sentiment trends
+   - Keyword/phrase extraction highlights
+   - Confidence score distributions
+   - Comparative analysis between different data sources
+
+4. **User Interface**: Design forms for text input and file upload with validation
+5. **Export Features**: Configure automated reports in CSV, JSON, and PDF formats
+6. **Error Handling**: Set up notifications and fallback processes for API failures
+
+ANALYSIS REQUIREMENTS:
+- Test your solution with at least 50 diverse text samples
+- Document accuracy by comparing results with manual sentiment analysis
+- Create a confusion matrix using your platform's analytics tools
+- Write a 300-500 word analysis of your chosen platform's limitations and advantages
+
+DOCUMENTATION NEEDED:
+1. Step-by-step setup guide with screenshots
+2. User manual explaining how to use each feature
+3. Platform justification (why you chose this no-code solution)
+4. Performance analysis report
+5. 3-minute demo video showing the complete workflow
+
+EVALUATION FOCUS:
+- Demonstrate how no-code tools can achieve enterprise-level ML solutions
+- Show understanding of API integrations and data flow management
+- Prove ability to create professional dashboards without traditional programming
+- Document the trade-offs between no-code speed and customization flexibility
+
+BONUS CHALLENGES:
+- Integrate multiple sentiment analysis APIs for comparison
+- Add real-time social media sentiment monitoring
+- Create mobile-responsive interfaces
+- Implement user authentication and role-based access
